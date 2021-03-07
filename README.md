@@ -25,7 +25,9 @@ Georges et Radwan.
 
 
 -Allez sur https://www.qt.io/download.
+
 -Choisissez la version correspondante et téléchargez.
+
 -Lancez l'installation en choisissant les modules qui conviennent à votre système.
 
 
@@ -33,6 +35,7 @@ Georges et Radwan.
 
 
 -Décompressez l’archive ‘.zip’ soumise et cliquez sur le fichier ‘.pro’ dans le dossier ‘projet’.
+
 -Choisissez la langue désirée puis cliquez sur ‘Tutoriel’ afin de vous familiariser au fonctionnement du programme.
 
 
@@ -40,8 +43,11 @@ Georges et Radwan.
 
 
 -Possibilité de changement de langage.
+
 -Possibilité d’ajout d’une nouvelle langue a travers le fichier ‘lang.txt’.
+
 -Page défilante permettant de sélectionner les mots de passe des électeurs.
+
 -Mise en place de plusieurs garde-fous afin d’éviter les erreurs.
 
 
@@ -49,4 +55,5 @@ Georges et Radwan.
 
 
 Georges Farah  191038
+
 Radwan Afiouni 190447
