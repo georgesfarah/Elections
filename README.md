@@ -4,7 +4,7 @@
 ## 1. Introduction 
 
 
-Project made in December 2020 as part of a C++ course.
+- Project made with Qt in December 2020 as part of a C++ course.
 
 
 ## 2. Installation
