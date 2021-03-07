@@ -1,58 +1,36 @@
 # Elections++
 
 
-## 0. Contenu
+## 1. Introduction 
 
 
-1. Préambule 
-2. Installation
-3. Guide Utilisateur
-4. Fonctionnalités ajoutées
-5. Crédits 
-
-
-## 1. Préambule 
-
-
-Nous espérons que ce travail, ainsi que l’examen final, vous permettront de voir nos 
-vraies capacités, qui n’ont rien à voir avec notre performance lors du partiel. 
-En vous souhaitant nos meilleurs voeux,
-Georges et Radwan.
+Project made in December 2020 as part of a C++ course.
 
 
 ## 2. Installation
 
 
--Allez sur https://www.qt.io/download.
+- Go to https://www.qt.io/download.
 
--Choisissez la version correspondante et téléchargez.
+- Choose the corresponding version and download.
 
--Lancez l'installation en choisissant les modules qui conviennent à votre système.
-
-
-## 3. Guide Utilisateur
+- Start the installation by choosing the modules that suit your system. 
 
 
--Décompressez l’archive ‘.zip’ soumise et cliquez sur le fichier ‘.pro’ dans le dossier ‘projet’.
-
--Choisissez la langue désirée puis cliquez sur ‘Tutoriel’ afin de vous familiariser au fonctionnement du programme.
+## 3. User Guide
 
 
-## 4. Fonctionnalités ajoutées
+- Click on the ".pro" file.
+
+- Choose the desired language then click on "Tutorial" to familiarize yourself with the operation of the program. 
 
 
--Possibilité de changement de langage.
+## 4. Features 
 
--Possibilité d’ajout d’une nouvelle langue a travers le fichier ‘lang.txt’.
+- Support 2 languages: English and French.
 
--Page défilante permettant de sélectionner les mots de passe des électeurs.
+- You can add a new language through the ‘lang.txt’ file.
 
--Mise en place de plusieurs garde-fous afin d’éviter les erreurs.
+- Scrolling page allowing to select voters' passwords.
 
-
-## 5. Crédits
-
-
-Georges Farah  191038
-
-Radwan Afiouni 190447
+- Implementation of several safeguards to avoid errors. 
