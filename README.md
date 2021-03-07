@@ -1,5 +1,4 @@
-# Elections
-Elections++
+# Elections++
 
 
 ## 0. Contenu
