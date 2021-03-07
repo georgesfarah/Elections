@@ -1,0 +1,54 @@
+#Francais
+_Veuiller inserer votre identifiant et votre mot de passe
+_Identifiant:
+_Mot de passe:
+_Connexion
+_Tutoriel
+_À Propos
+_À Propos
+_Logiciel de vote electronique
+_Edit
+_Stats
+_Results
+_Veiller insérer les noms des candidats (séparés par des ","):
+_Veiller insérer le nombre d'électeurs:
+_Veuiller choisir votre representant:
+_Voter
+_Etape 1
+_Etape 2
+_Étape 1 : Initialisation et Vote
+_Connectez vous à l’aide des identifiants suivants :
+_Identifiants
+_Identifiant: admin
+_Mot de passe: admin
+_Entrez les noms des candidats comme indiqué, ainsi que le nombre d’électeurs puis sauvegardez, les électeurs devront se connecter en utilisant le nom ‘electeur’ et l’un des mots de passe uniques enregistrés dans l’onglet ‘Participation’ de la fenêtré d’administration ainsi que dans le fichier 'pass.txt' 
+_Étape 2 : Dépouille des résultats 
+_Une fois le vote terminé, reconnectez-vous à l’aide des identifiants de l’administrateur, vous pourrez ainsi accéder aux résultats dans l’onglet ‘Résultats’, et a la liste des électeurs dans l’onglet ‘Participation’
+_Sauvegarder les paramètres
+#English
+_Please enter your username and password
+_Identifier:
+_Password:
+_Log in
+_Tutorial
+_About
+_About
+_Electronic voting software
+_Edit
+_Stats
+_Results
+_Please insert the names of the candidates (separated by ","):
+_Number of voters:
+_Please choose your representative:
+_Vote
+_Step 1
+_2nd step
+_Step 1: Initialization and Voting
+_Connect using the following identifiers:
+_Identifiers
+_Identifier: admin
+_Password: admin
+_Enter the names of the candidates as indicated, as well as the number of voters then save, voters will have to log in using the name 'voter' and one of the unique passwords registered in the 'Participation' tab of the window administration as well as in the file 'pass.txt'
+_Step 2: Analysis of the results
+_Once the vote is over, log in again using the administrator's credentials, you will be able to access the results in the Results ’tab, and the list of voters in the Participation’ tab.
+_Save parameters
